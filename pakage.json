@@ -1,0 +1,13 @@
+{
+  "name": "economy-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "latest",
+    "dotenv": "latest",
+    "mongodb": "latest",
+    "lowdb": "latest"
+  }
+}
